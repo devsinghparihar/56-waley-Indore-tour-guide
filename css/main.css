@@ -2402,7 +2402,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-review .star {
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .footer-area {
@@ -2655,3 +2655,20 @@ h6 {
   border-radius: 10%;
   
 }
+.addon-services:hover{
+  color: #ed3572;
+  font-weight: bold;
+  
+  
+}
+.addon-services{
+  color: black;
+  
+  /* border: 2px solid black; */
+  
+  
+  
+  
+}
+
+
